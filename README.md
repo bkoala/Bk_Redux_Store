@@ -8,8 +8,8 @@ The React front end accesses the store and finds that the app uses a Redux provi
 ###
 The application was deployed to Heroku with a MongoDB database using MongoDB Atlas.
 ###
-Heroku deployed URL:
+Heroku deployed URL:https://bk-reduxstore.herokuapp.com/
 
-Application GitHub URL : https://github.com/bkoala/Bk_BookSearch_Engine
+Application GitHub URL : https://github.com/bkoala/Bk_Redux_Store.git
 
 Home Page Screen Shot : ![Screenshot](./images/home.png)
